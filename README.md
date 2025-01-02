@@ -1,4 +1,4 @@
-## Hi, I'm Sarah Danesh
+## Hi, I'm Sarah Danesh 
 
 I'm a junior frontend developer and passionate about JS, Startups and more!
 
