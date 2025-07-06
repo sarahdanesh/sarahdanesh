@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Sarah Danesh 
 
+I'm a junior frontend developer and passionate about JS, Startups and more!
+
+I'm currently building [Startup Tools List](https://startuptoolslist.com), a free resource for startup guys!
 <!--
 **sarahdanesh/sarahdanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
